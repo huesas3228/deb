@@ -7,5 +7,5 @@ function FindProxyForURL(url, host) {
         return "DIRECT";
     }
 
-    return "PROXY 192.168.1.72:8080; DIRECT";
+    return "HTTPS desktop-06vpf7t.tailbc9a40.ts.net:10000; DIRECT";
 }
